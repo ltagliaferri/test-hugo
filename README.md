@@ -1,2 +1,1 @@
-# test-hugo
-Example with CMS
+# Internal Chainguard Handbook
